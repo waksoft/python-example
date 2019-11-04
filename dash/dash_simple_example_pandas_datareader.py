@@ -36,8 +36,8 @@ def update_graph(selected_dropdown_value):
         }],
         'layout': {'margin': {'l': 40, 'r': 0, 't': 20, 'b': 30}}
     }
-"""
+
 app.css.append_css({'external_url': 'https://codepen.io/chriddyp/pen/bWLwgP.css'})
-"""
+
 if __name__ == '__main__':
     app.run_server()
