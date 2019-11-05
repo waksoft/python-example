@@ -12,7 +12,7 @@ def play():
             print("Ваше число меньше секретного.")
             continue
         if user_guess > random_int:
-            print("Выше число больше секретного.")
+            print("Ваше число больше секретного.")
             continue
 
 if __name__ == '__main__':
