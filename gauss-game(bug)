@@ -4,7 +4,7 @@ def play():
     random_int = randint(0, 100)
 
     while True:
-        user_guess = int(input("Запишите целое число в диапазоне от 0 до 100?"))
+        user_guess = int(input("Запишите целое число в диапазоне от 0 до 100? "))
         if user_guess == randint:
             print(f"Вы угадали число ({random_int}). Поздравляю!")
             break
