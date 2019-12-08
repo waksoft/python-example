@@ -1,0 +1,31 @@
+C:\Users\user\PycharmProjects\Boring-numpy\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm 2018.3.5\plugins\python\helpers\pydev\pydevconsole.py" --mode=client --port=52052
+import sys; print('Python %s on %s' % (sys.version, sys.platform))
+sys.path.extend(['C:\\Users\\user\\PycharmProjects\\Boring-numpy', 'C:/Users/user/PycharmProjects/Boring-numpy'])
+PyDev console: starting.
+Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32
+runfile('C:/Users/user/PycharmProjects/Boring-numpy/practicum-3(18-25).py', wdir='C:/Users/user/PycharmProjects/Boring-numpy')
+Задача №18
+N =  5
+Исходная матрица B
+ [[-45 -42 -42   1 -39]
+ [  9 -28 -50 -35  22]
+ [ 29   0  41  -2  39]
+ [ 42 -33 -21 -16 -45]
+ [-43  14 -26  32 -26]]
+Сумма элементов главной диагонали  -74
+Повернули матрицу B на 90
+ [[-43  42  29   9 -45]
+ [ 14 -33   0 -28 -42]
+ [-26 -21  41 -50 -42]
+ [ 32 -16  -2 -35   1]
+ [-26 -45  39  22 -39]]
+Сумма элементов побочной диагонали  -109
+Задача №19
+N =  4
+Исходная матрица B
+ [[-33 -23  15  29]
+ [  1   0  30  43]
+ [ 48  40  33  49]
+ [ 38  43  15  -6]]
+Сумма элементов диагонали выше главной 56
+Сумма элементов диагонали ниже главной 56
