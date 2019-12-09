@@ -1,9 +1,3 @@
-C:\Users\user\PycharmProjects\Boring-numpy\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm 2018.3.5\plugins\python\helpers\pydev\pydevconsole.py" --mode=client --port=52129
-import sys; print('Python %s on %s' % (sys.version, sys.platform))
-sys.path.extend(['C:\\Users\\user\\PycharmProjects\\Boring-numpy', 'C:/Users/user/PycharmProjects/Boring-numpy'])
-PyDev console: starting.
-Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32
-runfile('C:/Users/user/PycharmProjects/Boring-numpy/practicum-3(1-7).py', wdir='C:/Users/user/PycharmProjects/Boring-numpy')
 Задачи №1,3
 N =  3
 M =  4
@@ -15,6 +9,7 @@ B [ 3 x 4 ] =
 Столбец с максимальной суммой =  1
 Наибольший элемент из столбца с максимальной суммой =  35
 Наименьший элемент из столбца с максимальной суммой =  -46
+
 Задачи №2,4
 N =  5
 M =  4
@@ -27,6 +22,7 @@ B [ 5 x 4 ] =
 Средние значения в строках [ -4.25   3.   -10.25  18.5  -13.75]
 Максимум средних =  18.5
 Минимум средних =  -13.75
+
 Задача №5
 N =  5
 M =  4
@@ -38,6 +34,7 @@ B [ 5 x 4 ] =
  [-17   2  -3  17]]
 Средние значения в столбцах [-4.4 -3.6 -5.8 -3. ]
 Средние значения в строках [-13.   -10.    19.75 -17.5   -0.25]
+
 Задача №6
 N =  5
 M =  4
@@ -50,6 +47,7 @@ B [ 5 x 4 ] =
 Сумма всех элементов =  1062
 Суммы в столбцах [271 220 332 239]
 Доля столбца в общей сумме [25.51789077 20.71563089 31.26177024 22.5047081 ]
+
 Задача №7
 N =  5
 M =  4
