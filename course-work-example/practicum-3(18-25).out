@@ -1,9 +1,3 @@
-C:\Users\user\PycharmProjects\Boring-numpy\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm 2018.3.5\plugins\python\helpers\pydev\pydevconsole.py" --mode=client --port=52052
-import sys; print('Python %s on %s' % (sys.version, sys.platform))
-sys.path.extend(['C:\\Users\\user\\PycharmProjects\\Boring-numpy', 'C:/Users/user/PycharmProjects/Boring-numpy'])
-PyDev console: starting.
-Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32
-runfile('C:/Users/user/PycharmProjects/Boring-numpy/practicum-3(18-25).py', wdir='C:/Users/user/PycharmProjects/Boring-numpy')
 Задача №18
 N =  5
 Исходная матрица B
@@ -20,6 +14,7 @@ N =  5
  [ 32 -16  -2 -35   1]
  [-26 -45  39  22 -39]]
 Сумма элементов побочной диагонали  -109
+
 Задача №19
 N =  4
 Исходная матрица B
