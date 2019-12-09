@@ -1,9 +1,3 @@
-C:\Users\user\PycharmProjects\Boring-numpy\venv\Scripts\python.exe "C:\Program Files\JetBrains\PyCharm 2018.3.5\plugins\python\helpers\pydev\pydevconsole.py" --mode=client --port=52167
-import sys; print('Python %s on %s' % (sys.version, sys.platform))
-sys.path.extend(['C:\\Users\\user\\PycharmProjects\\Boring-numpy', 'C:/Users/user/PycharmProjects/Boring-numpy'])
-PyDev console: starting.
-Python 3.6.5 (v3.6.5:f59c0932b4, Mar 28 2018, 16:07:46) [MSC v.1900 32 bit (Intel)] on win32
-runfile('C:/Users/user/PycharmProjects/Boring-numpy/practicum-3(8-17).py', wdir='C:/Users/user/PycharmProjects/Boring-numpy')
 Задача №8
 N =  3
 M =  4
@@ -13,6 +7,7 @@ M =  4
  [-38  13  -5  -4]]
 Отрицательные элементы в колонках  [3 1 2 2]
 Отрицательные элементы в строках  [3 2 3]
+
 Задача №9
 N =  30
 M =  40
@@ -27,6 +22,7 @@ M =  40
 L =  25
 K =  20
 Нулевых элементов выше  25 строки (включительно) и левее  25 колонки (включительно):  0
+
 Задача №10
 N =  5
 M =  4
@@ -43,6 +39,7 @@ K =  2
  [  -638    464    841  22707]
  [  1188    972   1296 -53136]
  [   320    130    100   2200]]
+
 Задача №11
 N =  5
 M =  4
@@ -59,6 +56,7 @@ L =  2
  [ 80  88  64  84]
  [ 48  49  51  78]
  [112 112  80  82]]
+
 Задачи №12, 13, 14
 N =  5
 M =  4
@@ -89,6 +87,7 @@ M =  4
  [ 0.29755935  0.6410859  -0.28247631  0.61128702]
  [ 0.53472934 -0.62206288  0.29056283  1.        ]
  [-0.76182347 -0.36916153 -0.74558861  0.32320468]]
+
 Задача №15
 N =  5
 M =  4
@@ -100,6 +99,7 @@ M =  4
  [ 24  22 -17  26]]
 H =  15
 Число  15 не содержит ни одна строка
+
 Задача №16
 N =  5
 M =  4
@@ -115,6 +115,7 @@ L =  2
  [-34 -15  46 -50]
  [-31  43 -11 -25]
  [-48  15   3  -4]]
+
 Задача №17
 N =  5
 M =  4
