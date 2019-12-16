@@ -1,0 +1,1 @@
+Пример из Руководства пользоватея фрейворка Dash/ Иллюстрации кода для статей Dash — передовой web‑фреймворк Python http://chel-center.ru/python-yfc/2019/11/06/dash-nbsp-mdash-peredovoj-web-8209-frejmvork-python/ и Вас не тормозят привычные инструменты бизнес‑аналитики? https://waksoft.susu.ru/2019/11/04/vas-ne-tormozyat-privychnye-instrument/
