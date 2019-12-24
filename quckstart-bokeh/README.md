@@ -10,15 +10,14 @@ Bokeh — интерактивная библиотека визуализаци
 С инструментарием для разработки мы уже определились и подробнее прочитать о нём можно в статье PyCharm — эффективная разработка на Python. Поэтому невзирая на то, что в оригинальной документации Bokeh предполагается использовать Jupiter Notebook, для своих упражнений будем использовать Pycharm. Для нас подойдёт любая версия от Education до Professional.
 
 ## Live ДЕМОНСТРАШКИ:
-+1.ol
-  Строим Гистограмму: https://waksoft.susu.ru/app/bokeh/bars.html
-  Строим Отсортированную гистограмму: https://waksoft.susu.ru/app/bokeh/bar_sorted.html
-  Строим Цветную гистограмму: https://waksoft.susu.ru/app/bokeh/color_bars.html
-  Скрип Пример простой линии: https://waksoft.susu.ru/app/bokeh/lines.html
-  Скрипт Цветные графики с логарифмической шкалой: https://waksoft.susu.ru/app/bokeh/log_lines.html
-  Аналитика Импорт/Экспорт фруктов по годам: https://waksoft.susu.ru/app/bokeh/stacked_split.html
-  Комментарии к объектам на рисунках: https://waksoft.susu.ru/app/bokeh/geojson.html
-  Посмотрим на карту Google: https://waksoft.susu.ru/app/bokeh/gmap.html
-  Посмотрим как изменяются координаты «мышки»: https://waksoft.susu.ru/app/bokeh/js_events.html
-  Интерактивность — Подвигаем полозок и поменяем график: https://waksoft.susu.ru/app/bokeh/js_on_change.html
-  Интерактивность — Просто карта: https://waksoft.susu.ru/app/bokeh/tile.html
++1.Строим Гистограмму: https://waksoft.susu.ru/app/bokeh/bars.html
++Строим Отсортированную гистограмму: https://waksoft.susu.ru/app/bokeh/bar_sorted.html
++Строим Цветную гистограмму: https://waksoft.susu.ru/app/bokeh/color_bars.html
++Скрип Пример простой линии: https://waksoft.susu.ru/app/bokeh/lines.html
++Скрипт Цветные графики с логарифмической шкалой: https://waksoft.susu.ru/app/bokeh/log_lines.html
++Аналитика Импорт/Экспорт фруктов по годам: https://waksoft.susu.ru/app/bokeh/stacked_split.html
++Комментарии к объектам на рисунках: https://waksoft.susu.ru/app/bokeh/geojson.html
++Посмотрим на карту Google: https://waksoft.susu.ru/app/bokeh/gmap.html
++Посмотрим как изменяются координаты «мышки»: https://waksoft.susu.ru/app/bokeh/js_events.html
++Интерактивность — Подвигаем полозок и поменяем график: https://waksoft.susu.ru/app/bokeh/js_on_change.html
++Интерактивность — Просто карта: https://waksoft.susu.ru/app/bokeh/tile.html
