@@ -10,7 +10,7 @@ Bokeh — интерактивная библиотека визуализаци
 С инструментарием для разработки мы уже определились и подробнее прочитать о нём можно в статье PyCharm — эффективная разработка на Python. Поэтому невзирая на то, что в оригинальной документации Bokeh предполагается использовать Jupiter Notebook, для своих упражнений будем использовать Pycharm. Для нас подойдёт любая версия от Education до Professional.
 
 ## Live ДЕМОНСТРАШКИ:
-+ 1. Строим Гистограмму: https://waksoft.susu.ru/app/bokeh/bars.html
++ Строим Гистограмму: https://waksoft.susu.ru/app/bokeh/bars.html
 + Строим Отсортированную гистограмму: https://waksoft.susu.ru/app/bokeh/bar_sorted.html
 + Строим Цветную гистограмму: https://waksoft.susu.ru/app/bokeh/color_bars.html
 + Скрип Пример простой линии: https://waksoft.susu.ru/app/bokeh/lines.html
