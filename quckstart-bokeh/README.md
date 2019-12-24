@@ -1,22 +1,24 @@
 Это примеры к статье https://waksoft.susu.ru/2019/12/21/vizualizacziya-dannyh-v-web-s-ispolzovaniem-python/
 
-Быстрый старт с Bokeh
+## h2 Быстрый старт с Bokeh
+---------------------
 Bokeh — интерактивная библиотека визуализации для современных веб-баузеров. Фреймворк Python обеспечивает шикарную, сжатую конструкцию разнообразных графиков и обеспечивает высокопроизводительную интерактивность с большими или потоковыми наборами данных. Bokeh может помочь всем, кто хочет быстро и легко создавать интерактивные сюжеты, информационные панели, и приложения для передачи и предоставления аналитической информации.
 
 Это краткое руководство, где внимание сфокусировано на визуализации без использования сервера, т.е. с помощью этих техник сделать онлайн-мониторинг погоды невозможно, данные в нашем случае должны быть статическими. Результатом работы программы является html-файл, который можно просто загрузить на web-сервер. Смею вас заверить, что все приложения, скрипты и ссылки на демонстрашки которых ниже, в том числе и интерактивные приложения, просто положены под Apache на нашем университетском сервере.
 
-Pycharm и Bokeh
+## h2 Pycharm и Bokeh
 С инструментарием для разработки мы уже определились и подробнее прочитать о нём можно в статье PyCharm — эффективная разработка на Python. Поэтому невзирая на то, что в оригинальной документации Bokeh предполагается использовать Jupiter Notebook, для своих упражнений будем использовать Pycharm. Для нас подойдёт любая версия от Education до Professional.
 
-ДЕМОНСТРАШКИ:
-1) Строим Гистограмму: https://waksoft.susu.ru/app/bokeh/bars.html
-2) Строим Отсортированную гистограмму: https://waksoft.susu.ru/app/bokeh/bar_sorted.html
-3) Строим Цветную гистограмму: https://waksoft.susu.ru/app/bokeh/color_bars.html
-4) Скрип Пример простой линии: https://waksoft.susu.ru/app/bokeh/lines.html
-5) Скрипт Цветные графики с логарифмической шкалой: https://waksoft.susu.ru/app/bokeh/log_lines.html
-6) Аналитика Импорт/Экспорт фруктов по годам: https://waksoft.susu.ru/app/bokeh/stacked_split.html
-7) Комментарии к объектам на рисунках: https://waksoft.susu.ru/app/bokeh/geojson.html
-8) Посмотрим на карту Google: https://waksoft.susu.ru/app/bokeh/gmap.html
-9) Посмотрим как изменяются координаты «мышки»: https://waksoft.susu.ru/app/bokeh/js_events.html
-10) Интерактивность — Подвигаем полозок и поменяем график: https://waksoft.susu.ru/app/bokeh/js_on_change.html
-11) Интерактивность — Просто карта: https://waksoft.susu.ru/app/bokeh/tile.html
+## h2 Live ДЕМОНСТРАШКИ:
++ol
+  Строим Гистограмму: https://waksoft.susu.ru/app/bokeh/bars.html
+  Строим Отсортированную гистограмму: https://waksoft.susu.ru/app/bokeh/bar_sorted.html
+  Строим Цветную гистограмму: https://waksoft.susu.ru/app/bokeh/color_bars.html
+  Скрип Пример простой линии: https://waksoft.susu.ru/app/bokeh/lines.html
+  Скрипт Цветные графики с логарифмической шкалой: https://waksoft.susu.ru/app/bokeh/log_lines.html
+  Аналитика Импорт/Экспорт фруктов по годам: https://waksoft.susu.ru/app/bokeh/stacked_split.html
+  Комментарии к объектам на рисунках: https://waksoft.susu.ru/app/bokeh/geojson.html
+  Посмотрим на карту Google: https://waksoft.susu.ru/app/bokeh/gmap.html
+  Посмотрим как изменяются координаты «мышки»: https://waksoft.susu.ru/app/bokeh/js_events.html
+  Интерактивность — Подвигаем полозок и поменяем график: https://waksoft.susu.ru/app/bokeh/js_on_change.html
+  Интерактивность — Просто карта: https://waksoft.susu.ru/app/bokeh/tile.html
